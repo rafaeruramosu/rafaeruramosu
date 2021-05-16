@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I am Rafael Ramos</h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 - 🌱 I am currently studying Systems Analysis and Development
 
