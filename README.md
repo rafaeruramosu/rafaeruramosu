@@ -7,9 +7,9 @@
 
 - ⚡ Home studies focused on **ReactJS, NextJS, TypeScript** and sometimes **React Native and NodeJS**
 
-- 🔭 My goals are based on reaching the next level until I become fullstack.
+- 🔭 My goals are based on reaching the next level until I become fullstack
 
-- 🚀 I am focused on the future, aiming for success in the market and my career as a developer.
+- 🚀 I am focused on the future, aiming for success in the market and my career as a developer
 
 - 💬 How to reach me **[rafaelramos.dev](https://rafaelramos.dev)**
 
