@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I am Rafael Ramos</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there</h1>
 <h3 align="center">Front-end Developer</h3>
 
 - 🌱 I graduated in Systems Analysis and Development
 
 - 👨‍💻 All of my projects are available at [rafaelramos.dev](https://rafaelramos.dev)
 
-- ⚡ Home studies focused on **ReactJS, NextJS, TypeScript** and sometimes **React Native and NodeJS**
+- ⚡ Home studies focused on **ReactJS, NextJS, NodeJS and TypeScript**
 
 - 🔭 My goals are based on reaching the next level until I become fullstack
 
