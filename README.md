@@ -1,17 +1,16 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there</h1>
-<h3 align="center">Front-end Developer</h3>
+# Rafael Ramos
 
-- 🌱 I graduated in Systems Analysis and Development
+Front-end Developer.
 
-- 👨‍💻 All of my projects are available at [rafaelramos.dev](https://rafaelramos.dev)
+[![Website Badge](https://img.shields.io/badge/rafaelramos.dev-000000?style=flat-square&logo=devdotto&logoColor=white&link=https://rafaelramos.dev)](https://rafaelramos.dev) 
+[![Linkedin Badge](https://img.shields.io/badge/Rafael%20Ramos-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelramosdev)](https://www.linkedin.com/in/rafaelramosdev) 
+[![Gmail Badge](https://img.shields.io/badge/rafaelramosdev@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelramosdev@gmail.com)](mailto:rafaelramosdev@gmail.com)
 
-- ⚡ Home studies focused on **ReactJS, NextJS, NodeJS and TypeScript**
+My goals are based on reaching the next level until I become fullstack.
 
-- 🔭 My goals are based on reaching the next level until I become fullstack
+I'm focused on the future, aiming for success in the market and my career as a developer.
 
-- 🚀 I am focused on the future, aiming for success in the market and my career as a developer
-
-- 💬 How to reach me **[rafaelramos.dev](https://rafaelramos.dev)**
+"I believe that success is the result of goals that must be achieved by giving the best of oneself."
 
 
 <!--
