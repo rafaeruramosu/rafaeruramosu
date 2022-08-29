@@ -1,6 +1,6 @@
 # Rafael Ramos
 
-Front-end Developer.
+Full Stack Developer.
 
 [![Website Badge](https://img.shields.io/badge/rafaelramos.dev-000000?style=flat-square&logo=devdotto&logoColor=white&link=https://rafaelramos.dev)](https://rafaelramos.dev)
 [![Gmail Badge](https://img.shields.io/badge/hi@rafaelramos.dev-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@rafaelramos.dev)](mailto:hi@rafaelramos.dev)
