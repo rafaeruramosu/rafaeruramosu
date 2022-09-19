@@ -3,7 +3,7 @@
 Full Stack Developer.
 
 [![Website Badge](https://img.shields.io/badge/rafaelramos.dev-000000?style=flat-square&logo=devdotto&logoColor=white&link=https://rafaelramos.dev)](https://rafaelramos.dev)
-[![Gmail Badge](https://img.shields.io/badge/hi@rafaelramos.dev-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@rafaelramos.dev)](mailto:hi@rafaelramos.dev)
+[![Gmail Badge](https://img.shields.io/badge/mail@rafaelramos.dev-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@rafaelramos.dev)](mailto:mail@rafaelramos.dev)
 
 I'm focused on the future, aiming for success in the market and in my career as a developer.
 
