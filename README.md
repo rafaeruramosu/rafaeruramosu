@@ -1,7 +1,7 @@
 # Rafael Ramos
 
 [![Website Badge](https://img.shields.io/badge/rafaelramos.dev-000000?style=flat-square&logo=devdotto&logoColor=white&link=https://rafaelramos.dev)](https://rafaelramos.dev)
-[![Gmail Badge](https://img.shields.io/badge/mail@rafaelramos.dev-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@rafaelramos.dev)](mailto:mail@rafaelramos.dev)
+[![Gmail Badge](https://img.shields.io/badge/rafaeruramosu@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeruramosu@gmail.com)](mailto:rafaeruramosu@gmail.com)
 
 I'm a full stack developer focused on the future, aiming for success in my career as a developer.
 
